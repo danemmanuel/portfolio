@@ -31,7 +31,7 @@
 ### 99 Motéis
 - Freelancer
 - Status: Online
-- Url: http://99moteis.com.br/new/
+- Url: http://99moteis.com.br/
 
 ### Halem
 - Freelancer
