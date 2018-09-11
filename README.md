@@ -2,16 +2,19 @@
 - Agência: Oxigenium
 - Status: Online
 - Url: http://feresarquitetura.com.br/
+- Wordpress
 
 ### Canal Pereira
 - Agencia: Oxigenium
 - Status: Online
 - Url: http://canalpereira.com/
+- Wordpress
 
 ### Mig Cosméticos
 - Agencia: Oxigenium
 - Status: Online
 - Url: http://www.migcosmeticos.com.br/
+- Wordpress
 
 ### 99 Motéis
 - Freelancer
@@ -22,21 +25,25 @@
 - Freelancer
 - Status: Online
 - Url: http://halem.com.br/
+- Wordpress
 
 ### Jofege
 - Agência: Oxigenium
 - Status: Online
 - Url: http://www.jofege.com.br/
+- Wordpress
 
 ### Pacotinho
 - Agência: Oxigenium
 - Status: Online
 - Url: https://opacotinho.com.br/
+- Wordpress
 
 ### Patricinhas
 - Agência: Cantinho Empreendedor
 - Status: Online
 - Url: https://patricinhas.com.br/
+- Wordpress
 
 
 ### Dan Vieira
